@@ -1,0 +1,1 @@
+This is a single page web template for computer society of uva wellassa university
